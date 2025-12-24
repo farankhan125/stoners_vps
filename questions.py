@@ -1,0 +1,66 @@
+questions = [
+    "What is The Stoners Shop?",
+    "What type of company is The Stoners Shop?",
+    "What products does The Stoners Shop specialize in?",
+    "Does The Stoners Shop sell merchandise?",
+    "What kind of stories does The Stoners Shop create?",
+
+    "What does The Stoners Shop offer to customers?",
+    "What are 'Stories' in The Stoners Shop?",
+    "Are the Stories premium products?",
+    "Can the Stories be collected or gifted?",
+    "Is The Stoners Shop currently launched?",
+    "Is The Stoners Shop still in development?",
+    "Will more Stories be released in the future?",
+
+    "What Stories are currently available in The Stoners Shop?",
+    "What is the Housefire Story?",
+    "What is the price of the Housefire Story?",
+    "What is the Underwater Story?",
+    "What is the price of the Underwater Story?",
+    "What is the Cosmic Story?",
+    "What is the price of the Cosmic Story?",
+    "What is the Bed Story?",
+    "What is the price of the Bed Story?",
+    "Do all Stories in The Stoners Shop have the same price?",
+
+    "What is Stone & Hopkins: Where It All Begins?",
+    "Who is Stone?",
+    "Who is Hopkins?",
+    "How did Stone and Hopkins meet?",
+    "What happened to Hopkins during the flood?",
+    "What tragedy did Stone experience?",
+    "How did Hopkins become the GREEN FIEND?",
+    "What happened during the massive flood involving Stone and Hopkins?",
+
+    "Who is The Lone Stone?",
+    "How is The Lone Stone described in the story?",
+
+    "Who is Struck Quartz?",
+    "What family does Struck Quartz belong to?",
+    "What is Lava Rock-A?",
+    "What kind of movies did Struck Quartz appear in?",
+
+    "Who is Chalkou?",
+    "What planet is Chalkou from?",
+    "What happened to Chalkou’s race?",
+    "How did Chalkou survive?",
+
+    "Who is Pierre?",
+    "Why is Pierre called the Stone With Hair?",
+    "Where did Pierre get his hair from?",
+    "What caused complications during Pierre’s birth?",
+    "What name was given to the baby stone with hair?",
+
+    "Who is Basatly K. Billiams?",
+    "What was Basatly like before the life-changing incident?",
+    "Where did Basatly live?",
+    "What happened during the summer amusement park incident?",
+    "What hallucinations did Basatly experience?",
+    "Why is Basatly described as Chaos in Crimson?",
+
+    "Who owns the rights to the Stories and characters of The Stoners Shop?",
+    "Are the Stories protected by copyright law?",
+    "Can content from The Stoners Shop be reproduced without permission?",
+    "What company retains creative ownership of The Stoners Shop intellectual property?"
+]
